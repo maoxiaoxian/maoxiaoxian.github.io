@@ -54,13 +54,13 @@ exclude:
   - _drafts
 
 collections:
-  pages:
+  mxpages:
     output: true
     permalink: /:collection/:path/
-  linux:
+  mxlinux:
     output: true
     permalink: /:collection/:path/
-  qemu:
+  mxqemu:
     output: true
     permalink: /:collection/:path/
 
