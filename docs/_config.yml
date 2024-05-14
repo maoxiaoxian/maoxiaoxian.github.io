@@ -60,6 +60,9 @@ collections:
   linux:
     output: true
     permalink: /:collection/:path/
+  qemu:
+    output: true
+    permalink: /:collection/:path/
 
 page_width: 800px
 
