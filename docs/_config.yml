@@ -54,9 +54,6 @@ exclude:
   - _drafts
 
 collections:
-  mxpages:
-    output: true
-    permalink: /:collection/:path/
   mxlinux:
     output: true
     permalink: /:collection/:path/

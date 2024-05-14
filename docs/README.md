@@ -1,7 +1,5 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: MaoXian's Blog
 permalink: /
 ---
-
-Make Jelly site have a GitBook look!
