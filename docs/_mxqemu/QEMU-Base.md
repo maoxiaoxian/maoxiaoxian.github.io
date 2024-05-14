@@ -1,5 +1,5 @@
 ---
-title: Misc
+title: QEMU Base
 author: Mao Xian
 date: 2024-01-01
 layout: post
