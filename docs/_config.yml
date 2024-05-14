@@ -57,6 +57,9 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
+  linux:
+    output: true
+    permalink: /:collection/:path/
 
 page_width: 800px
 
